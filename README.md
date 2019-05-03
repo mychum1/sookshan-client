@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # client
 
 > Nuxt.js project
@@ -21,3 +22,7 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+=======
+# sookshan-client
+for sookshan client
+>>>>>>> 7a1b7181ffe37cf1dc96b27dcf8ecdb6b8d863c5
